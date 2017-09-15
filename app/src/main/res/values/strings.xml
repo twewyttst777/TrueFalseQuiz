@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">True False Quiz</string>
+    <string name="text_true">True</string>
+    <string name="text_false">False</string>
+    <string name="text_next"><![CDATA[>>>]]></string>
+    <string name="question1">My Hovercraft is filled with eels</string>
+    <string name="question2">Rawr means \"I hate you\" in dinosaur.</string>
+    <string name="question3">All your base are belong to us</string>
+    <string name="question4">I will bait you and outsmart you</string>
+    <string name="question5">I can\'t believe Serval is hecking dead</string>
+    <string name="question6">Anime was a mistake</string>
+</resources>
